@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dfeb213d9e174055a08894be6d679858" Name="Diagram1">
+        <EntityTypeShape EntityType="Amol_LearningModel.Book" Width="1.5" PointX="12" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.Customer" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.EmployeeInfo" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.Order" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.OrderItem" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.OrderItemOption" Width="1.5" PointX="7.5" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.OrderStatu" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.Product" Width="1.5" PointX="3" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.ProductOption" Width="1.5" PointX="5.25" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.ProductSize" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Amol_LearningModel.User" Width="1.5" PointX="7.75" PointY="5.75" IsExpanded="true" />
+        <AssociationConnector Association="Amol_LearningModel.FK_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_OrderItem_Order_Id" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_OrderStatusId" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_OrderItem_ProductId" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_OrderItem_ProductSizeId" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_OrderItemOption_OrderItemId" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_OrderItemOption_ProductOptionId" ManuallyRouted="false" />
+        <AssociationConnector Association="Amol_LearningModel.FK_User_User" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

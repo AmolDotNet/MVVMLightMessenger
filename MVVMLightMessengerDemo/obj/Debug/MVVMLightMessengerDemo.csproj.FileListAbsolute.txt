@@ -1,0 +1,127 @@
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\EntityFramework.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Data.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.config
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.CodeAnalysisLog.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.lastcodeanalysissucceeded
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\EntityFramework.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Data.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.csprojResolveAssemblyReference.cache
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\Skins\MainSkin.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MainWindow.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\View\EditView.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\View\HomeView.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\App.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo_MarkupCompile.cache
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo_MarkupCompile.lref
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\App.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MainWindow.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\View\EditView.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\View\HomeView.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.g.resources
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.Properties.Resources.resources
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.csproj.GenerateResource.Cache
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.exe.licenses
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.exe
+C:\Learning\MVVM\MVVMLightMessengerDemo\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.config
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.CodeAnalysisLog.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.lastcodeanalysissucceeded
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\EntityFramework.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\System.Windows.Interactivity.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.GridView.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Data.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Maths.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Zip.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\EntityFramework.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.GridView.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Data.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Maths.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Zip.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.csprojResolveAssemblyReference.cache
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\Skins\MainSkin.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MainWindow.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\View\EditView.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\View\HomeView.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\App.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo_MarkupCompile.cache
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo_MarkupCompile.lref
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\App.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MainWindow.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\View\EditView.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\View\HomeView.baml
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.g.resources
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.Properties.Resources.resources
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.csproj.GenerateResource.Cache
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.exe.licenses
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.exe
+C:\Learning\MVVM\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.pdb
+C:\Projects\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\bin\Debug\MVVMLightMessengerDemo.exe.config
+C:\Projects\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.exe
+C:\Projects\MVVMLightMessengerDemo - v4\MVVMLightMessengerDemo\obj\Debug\MVVMLightMessengerDemo.pdb
